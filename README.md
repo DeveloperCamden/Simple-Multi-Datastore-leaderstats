@@ -1,2 +1,3 @@
 # Simple-Multi-Datastore-leaderstats
-Multi datastore leaderstats for Roblox development
+leaderstats with multiple datastores/ savefiles for Roblox development.
+Any questions you can contact me on discord.gg/xdaD3n7fhw
